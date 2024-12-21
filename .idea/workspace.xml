@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d31d10a-d07b-4175-86ce-7ff4d4862577" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/a1/Main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="2d31d10a-d07b-4175-86ce-7ff4d4862577" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +35,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/gitStudy/EXE1",
+    "last_opened_file_path": "F:/gitStudy/EXE2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -47,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734772278971</updated>
       <workItem from="1734772280207" duration="725000" />
+      <workItem from="1734773525106" duration="401000" />
     </task>
     <servers />
   </component>
