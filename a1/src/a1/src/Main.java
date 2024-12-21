@@ -7,6 +7,6 @@ package a1.src;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        System.out.println(Fun.Func("a","b"));
+        System.out.println(a1.src.Fun.Func("a","b"));
     }
 }
